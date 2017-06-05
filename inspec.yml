@@ -1,8 +1,8 @@
 name: inspec_tutorial
-title: InSpec Profile
-maintainer: The Authors
-copyright: The Authors
-copyright_email: you@example.com
+title: Inspec Tutorial InSpec Profile
+maintainer: Paul Poulosky
+copyright: Paul Poulosky
+copyright_email: paul.poulosky@sap.com
 license: All Rights Reserved
-summary: An InSpec Compliance Profile
+summary: Just playing with inspec for now
 version: 0.1.0
